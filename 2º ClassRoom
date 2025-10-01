@@ -4,7 +4,9 @@ int main() {
  
   /*
 
-    1) Instruções/função: sempre termina com ; Ex: printf("Hello Wolrd!\n");
+    1) Instruções/função: Ex: printf("Hello Wolrd!\n"); 
+
+    sempre termina com ;
 
     tudo que estiver escrito seguido de 2 parenteses é uma função.
     
