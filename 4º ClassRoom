@@ -2,21 +2,29 @@
 
 int main()
 {
-  //uma variavel tem um estrutura de declaraçao, e precisamos seguir essa estrutura para declarar uma variavel: tipo nomeDaVariavel = atribuir um valor padrao;
+  /*
+  uma variavel tem uma estrutura de declaração, e precisamos seguir esta base a seguir para declarar uma variavel: 
+  
+  tipo nomeDaVariavel = atribuir um valor padrao;
 
-  int num = 0;
-  //ou: int num, num2 = 0; , forma de declarar mais de uma variavel, deixando o codigo elegante e limpo.
+  Ou seja:   int num = 0; int = tipo da variavel, num = nome da variavel, 0 = valor padrao atribuido a variavel.
+  */
+
+  // int num, num2 = 0; é forma de declarar mais de uma variavel, deixando o codigo elegante e limpo.
 
 
+  // Exemplo de nome composto:
   double numeroVerificado;
- 
-  //quando uma variavel tem um nome composto por mais de uma palavra, usamos o camelCase, ou seja, a primeira palavra com letra minuscula e as outras com letra maiuscula.
-  // no C uma variavel pode comecar com qaulquer letra, menos com numeros, mas se utilizar o caracter _ (underline) pode ser usado para iniciar uma variavel, ou separar um nome composto, por exemplo: int num_eros;
-  // nao de pode usar nenhum caracter especial pode ser utilizado no nome, apenas o _
 
-  int _2numeros;
-  int num_eros;
+  /* 
+  quando uma variavel tem um nome composto por mais de uma palavra (como no exemplo acima), usamos o camelCase, ou seja, a primeira palavra com letra minuscula e as outras com letra maiuscula.
 
+   no C uma variavel pode comecar com qualquer letra, menos com numeros, mas se utilizarmos o caracter _ (underline), ai podemos iniciar com numeoros ou ate separar um nome composto.
+
+   Exemplo: int _2numeros;  int num_eros;
+   
+   Obs: nao pode usar nenhum caracter especial no nome, apenas o _ (underline). 
+  */
 
    return 0;
 }
