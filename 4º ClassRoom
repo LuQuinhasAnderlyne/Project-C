@@ -6,7 +6,6 @@ int main()
 
   int num = 0;
   //ou: int num, num2 = 0; , forma de declarar mais de uma variavel, deixando o codigo elegante e limpo.
-  int num, num2 = 0;
 
 
   double numeroVerificado;
