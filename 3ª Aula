@@ -1,6 +1,6 @@
   Variavel é um local na memoria que reservamos para armazenar um valor: um nome de um produto, quantidade de horas trabalhadas, hora atual do sistema e etc.
 
-  int i= Variavel do tipo inteiro / Nome i / podemos armazenar numeros inteiros nela, fazendo referencia a ela em outras partes do codigo. Ex: i = 10; i = 20; i = 30; ou int i = 10;
+int i= Variavel do tipo inteiro / Nome i / podemos armazenar numeros inteiros nela, fazendo referencia a ela em outras partes do codigo. Ex: i = 10; i = 20; i = 30; ou int i = 10;
  
 1) float f = Variavel do tipo float / Nome f / podemos armazenar numeros decimais nela, fazendo referencia a ela em outras partes do codigo. Ex: f = 10.5; f = 20
 
