@@ -3,7 +3,7 @@
 estrutura:
   <tipo> <nome> = <valor>;
   ou seja:
-  int     num   =   10;
+  int num = 10;
 
   para declararmos mais de uma variavel podemos utilizar um atalho, colocando virgula e o nome da variavel na mesma linha:
   
